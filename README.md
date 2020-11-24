@@ -1,7 +1,11 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Hanif!
+Welcome to my [Github Profile](https://github.com/denshanif). <br>
+I'm an Informatics Student. <br>
+I'm curently interested in Web Development & UI Design. <br>
 
-<!--
-**denshanif/denshanif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Take a look on my social media
+[![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)](https://www.linkedin.com/in/hanif-al-fathoni/)
+[![](http://img.shields.io/badge/-mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=D14836)](mailto:alfatoni922@gmail.com)
 
 Here are some ideas to get you started:
 
