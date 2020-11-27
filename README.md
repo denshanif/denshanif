@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Hanif!
 Welcome to my [Github Profile](https://github.com/denshanif). <br>
 💻 I'm an Informatics Student. <br>
-🌏 Based in Indonesia. <br>
+🌏 Based in Sidoarjo, Indonesia. <br>
 📖 I'm curently interested in Web Development & UI Design. <br>
 
 ## How to reach me:
