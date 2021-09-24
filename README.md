@@ -6,4 +6,3 @@ Welcome to my [Github Profile](https://github.com/denshanif). <br>
 
 ## How to reach me:
 [![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)](https://www.linkedin.com/in/hanif-al-fathoni/)
-[![](http://img.shields.io/badge/-mail-lightgrey?logo=gmail&style=flat&logoColor=white&color=D14836)](mailto:alfatoni922@gmail.com)
