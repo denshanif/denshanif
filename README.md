@@ -2,7 +2,7 @@
 Welcome to my [Github Profile](https://github.com/denshanif). <br>
 💻 I'm an Informatics Student. <br>
 🌏 Based in Sidoarjo, Indonesia. <br>
-📖 I'm curently interested in Web Development & UI Design. <br>
+📖 I'm curently interested in Web Development & Cloud Computing. <br>
 
 ## How to reach me:
 [![](http://img.shields.io/badge/-LinkedIn-lightgrey?logo=linkedin&style=flat&logoColor=white&color=0077B5)](https://www.linkedin.com/in/hanif-al-fathoni/)
